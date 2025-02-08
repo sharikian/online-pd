@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[177],{9487:(e,a,l)=>{Promise.resolve().then(l.t.bind(l,7367,23)),Promise.resolve().then(l.t.bind(l,9324,23))},9324:()=>{},7367:e=>{e.exports={style:{fontFamily:"'pelak', 'pelak Fallback'"},className:"__className_d311c7",variable:"__variable_d311c7"}}},e=>{var a=a=>e(e.s=a);e.O(0,[371,441,517,358],()=>a(9487)),_N_E=e.O()}]);
